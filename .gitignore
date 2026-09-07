@@ -1,0 +1,8 @@
+task.json
+task_snapshot.json
+agent.log
+agent-findings.json
+.env
+.ai/
+.opencode/node_modules/
+proj/
